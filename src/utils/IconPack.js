@@ -1,0 +1,16 @@
+export default {
+  IMG8: require('@assets/person.png'),
+  IMG1: require('@assets/img1.jpeg'),
+  IMG2: require('@assets/img2.jpeg'),
+  IMG3: require('@assets/4.jpg'),
+  IMG4: require('@assets/5.jpg'),
+  IMG5: require('@assets/6.jpg'),
+  IMG6: require('@assets/7.jpg'),
+  IMG7: require('@assets/9.jpg'),
+  IMG8: require('@assets/12.jpg'),
+  IMG9: require('@assets/13.jpg'),
+  IMG10: require('@assets/user1.png'),
+  IMG11: require('@assets/user3.png'),
+  IMG12: require('@assets/user4.png'),
+  IMG13: require('@assets/user5.png'),
+};
